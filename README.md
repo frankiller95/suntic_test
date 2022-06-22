@@ -1,12 +1,12 @@
-<h1>INSTALACIÓN</h1>
-<P>Crear una carpeta dentro de su servidor local con el nombre laravel suntic</P>
+<h1>INSTALACIÓN y EJECUCCIÓN</h1>
+<P>Crear una carpeta dentro de su servidor local con el nombre laravel-suntic.</P>
 <p>En caso de contar con git instalado realizar clone del repositorio usando el comando git clone https://github.com/frankiller95/suntic_test.git
 </p>
-<p>una vez clonado el proyecto ejecuta la consola de comandos de su preferencia y ingrese a la carpeta laravel-suntic</p>
-<p>En caso de contar con composer instalado ejecuta el comando composer install</p>
-<p>En caso de que lo requiera ejecute composer update</p>
-<p>en la raiz del proyecto existe un archivo de nombre database.sql, copie los datos de ese archivo y peguar en su entorno mysql o importe el archivo desde su entorno mysql</p>
-<p>El sistema debe permitir el registro y inicio de sesión sin inconvenientes</p>
+<p>una vez clonado el proyecto ejecuta la consola de comandos de su preferencia y ingrese a la carpeta laravel-suntic.</p>
+<p>En caso de contar con composer instalado ejecuta el comando composer install.</p>
+<p>En caso de que lo requiera ejecute composer update.</p>
+<p>en la raiz del proyecto existe un archivo de nombre database.sql, copie los datos de ese archivo y peguar en su entorno mysql o importe el archivo desde su entorno mysql.</p>
+<p>El sistema debe permitir el registro y inicio de sesión sin inconvenientes.</p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
