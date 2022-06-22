@@ -1,4 +1,4 @@
-<h1>INSTALACIÓN Y EJECUCCIÓN</h1>
+<h1>INSTALACIÓN Y EJECUCIÓN</h1>
 <P>Crear una carpeta dentro de su servidor local con el nombre laravel-suntic.</P>
 <p>En caso de contar con git instalado realizar clone del repositorio usando el comando git clone https://github.com/frankiller95/suntic_test.git
 </p>
